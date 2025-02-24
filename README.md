@@ -11,3 +11,5 @@ Bu proje, Kotlin ile yazılmış basit bir Android uygulamasıdır. İlk uygulam
 Projeyi yerel bilgisayarınıza klonlamak için aşağıdaki komutu kullanın:
 ```bash
 git clone https://github.com/kullanici_adiniz/first-project-kotlin-app-development.git
+
+![Uygulama Ekranı](images/Ekran%20görüntüsü%202025-02-25%20135713.png)
