@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application8</string>
+    <string name="kullaniciAdi">USERNAME</string>
+    <string name="sifre">PASSWORD</string>
+    <string name="buttonYazi">LOGIN</string>
+    <string name="yardim">HELP?</string>
+
+</resources>
